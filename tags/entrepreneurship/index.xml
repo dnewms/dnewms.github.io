@@ -2,24 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entrepreneurship on Viralogy</title>
-    <link>http://viralogy.com/tags/entrepreneurship/</link>
+    <link>http://viralogy.digital/tags/entrepreneurship/</link>
     <description>Recent content in Entrepreneurship on Viralogy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Viralogy Digital is made in Michigan.</copyright>
     <lastBuildDate>Sat, 15 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://viralogy.com/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://viralogy.digital/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Congrats! It&#39;s a Corporation!</title>
-      <link>http://viralogy.com/2017/04/congrats-its-a-corporation/</link>
+      <title>Limited time flat-fee websites</title>
+      <link>http://viralogy.digital/2017/04/limited-time-flat-fee-websites/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/2017/04/congrats-its-a-corporation/</guid>
-      <description>Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>http://viralogy.digital/2017/04/limited-time-flat-fee-websites/</guid>
+      <description>Viralogy Digital is new. To incentivize some business, we&amp;rsquo;re offering some low-risk offers to help you become a part of the internet.
+$100 websites Go templates provide an extremely simple template language. It adheres to the belief that only the most basic of logic belongs in the template or view layer. One consequence of this simplicity is that go templates parse very quickly.
+A unique characteristic of go templates is they are content aware.</description>
     </item>
     
   </channel>

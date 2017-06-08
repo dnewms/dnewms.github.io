@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Viralogy</title>
-    <link>http://viralogy.com/</link>
+    <link>http://viralogy.digital/</link>
     <description>Recent content in Home on Viralogy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Viralogy Digital is made in Michigan.</copyright>
     <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://viralogy.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://viralogy.digital/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content</title>
-      <link>http://viralogy.com/services/content/</link>
+      <link>http://viralogy.digital/services/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/services/content/</guid>
+      <guid>http://viralogy.digital/services/content/</guid>
       <description>Content services Article writing Includes research and drafting of SEO-oriented articles or press releases to match chosen style guides, along with photography if required.
 View a sample written for the Motley Fool.
 The Neighborhood Coffee Shop That Shaped Starbucks&amp;#39; Future A small, unbranded coffee shop served as a secret testing ground for the company and its new premium strategy. There is a sharp contrast between the new Starbucks (NASDAQ:SBUX) Reserve Roastery &amp;amp; Tasting Room and the neighborhood cafe a mile away, Roy Street Coffee &amp;amp; Tea.</description>
@@ -25,10 +25,10 @@ The Neighborhood Coffee Shop That Shaped Starbucks&amp;#39; Future A small, unbr
     
     <item>
       <title>Marketing</title>
-      <link>http://viralogy.com/services/marketing/</link>
+      <link>http://viralogy.digital/services/marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/services/marketing/</guid>
+      <guid>http://viralogy.digital/services/marketing/</guid>
       <description>Marketing Content Strategy Includes developing target profiles and subject matter, planning distribution, and analyzing performance with analytics.
 Crowdfunding Includes campaign and asset creation, promotion, and hand-holding through to the final goal.
 View sample coverage from Detroit Institute of Bagel&#39;s &#34;Save the Bagels&#34; campaign, which raised $10,000.
@@ -37,10 +37,10 @@ View sample coverage from Detroit Institute of Bagel&#39;s &#34;Save the Bagels&
     
     <item>
       <title>Web Design</title>
-      <link>http://viralogy.com/services/web-design/</link>
+      <link>http://viralogy.digital/services/web-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/services/web-design/</guid>
+      <guid>http://viralogy.digital/services/web-design/</guid>
       <description>Web design WordPress sites Includes developing custom themes, applying premium themes, integrations, or migrations.
 View a sample built for the Detroit Institute of Bagels.
      Custom builds Includes design, coding, domain set up and publishing.
@@ -51,31 +51,32 @@ View a sample created for a wedding.
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>http://viralogy.com/2014/03/migrate-to-hugo-from-jekyll/</link>
+      <link>http://viralogy.digital/2014/03/migrate-to-hugo-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/2014/03/migrate-to-hugo-from-jekyll/</guid>
+      <guid>http://viralogy.digital/2014/03/migrate-to-hugo-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
-      <title>Congrats! It&#39;s a Corporation!</title>
-      <link>http://viralogy.com/2017/04/congrats-its-a-corporation/</link>
+      <title>Limited time flat-fee websites</title>
+      <link>http://viralogy.digital/2017/04/limited-time-flat-fee-websites/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/2017/04/congrats-its-a-corporation/</guid>
-      <description>Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>http://viralogy.digital/2017/04/limited-time-flat-fee-websites/</guid>
+      <description>Viralogy Digital is new. To incentivize some business, we&amp;rsquo;re offering some low-risk offers to help you become a part of the internet.
+$100 websites Go templates provide an extremely simple template language. It adheres to the belief that only the most basic of logic belongs in the template or view layer. One consequence of this simplicity is that go templates parse very quickly.
+A unique characteristic of go templates is they are content aware.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://viralogy.com/2014/04/getting-started-with-hugo/</link>
+      <link>http://viralogy.digital/2014/04/getting-started-with-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/2014/04/getting-started-with-hugo/</guid>
+      <guid>http://viralogy.digital/2014/04/getting-started-with-hugo/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -86,10 +87,10 @@ Follow the following steps:
     
     <item>
       <title>Contact</title>
-      <link>http://viralogy.com/contact/</link>
+      <link>http://viralogy.digital/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/contact/</guid>
+      <guid>http://viralogy.digital/contact/</guid>
       <description>Contact Ready to take your ideas, products, and services out of the incubator and unleash their possibilities on the public?
 Send us a note at infected@viralogydigital.com, or call (248) 320-6568.</description>
     </item>

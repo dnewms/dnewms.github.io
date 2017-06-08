@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Viralogy</title>
-    <link>http://viralogy.com/services/</link>
+    <link>http://viralogy.digital/services/</link>
     <description>Recent content in Services on Viralogy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Viralogy Digital is made in Michigan.</copyright>
     
-	<atom:link href="http://viralogy.com/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://viralogy.digital/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content</title>
-      <link>http://viralogy.com/services/content/</link>
+      <link>http://viralogy.digital/services/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/services/content/</guid>
+      <guid>http://viralogy.digital/services/content/</guid>
       <description>Content services Article writing Includes research and drafting of SEO-oriented articles or press releases to match chosen style guides, along with photography if required.
 View a sample written for the Motley Fool.
 The Neighborhood Coffee Shop That Shaped Starbucks&amp;#39; Future A small, unbranded coffee shop served as a secret testing ground for the company and its new premium strategy. There is a sharp contrast between the new Starbucks (NASDAQ:SBUX) Reserve Roastery &amp;amp; Tasting Room and the neighborhood cafe a mile away, Roy Street Coffee &amp;amp; Tea.</description>
@@ -24,10 +24,10 @@ The Neighborhood Coffee Shop That Shaped Starbucks&amp;#39; Future A small, unbr
     
     <item>
       <title>Marketing</title>
-      <link>http://viralogy.com/services/marketing/</link>
+      <link>http://viralogy.digital/services/marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/services/marketing/</guid>
+      <guid>http://viralogy.digital/services/marketing/</guid>
       <description>Marketing Content Strategy Includes developing target profiles and subject matter, planning distribution, and analyzing performance with analytics.
 Crowdfunding Includes campaign and asset creation, promotion, and hand-holding through to the final goal.
 View sample coverage from Detroit Institute of Bagel&#39;s &#34;Save the Bagels&#34; campaign, which raised $10,000.
@@ -36,10 +36,10 @@ View sample coverage from Detroit Institute of Bagel&#39;s &#34;Save the Bagels&
     
     <item>
       <title>Web Design</title>
-      <link>http://viralogy.com/services/web-design/</link>
+      <link>http://viralogy.digital/services/web-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://viralogy.com/services/web-design/</guid>
+      <guid>http://viralogy.digital/services/web-design/</guid>
       <description>Web design WordPress sites Includes developing custom themes, applying premium themes, integrations, or migrations.
 View a sample built for the Detroit Institute of Bagels.
      Custom builds Includes design, coding, domain set up and publishing.
