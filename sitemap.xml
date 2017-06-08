@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://viralogy.com/services/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/services/content/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/services/marketing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/services/web-design/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/2017/04/congrats-its-a-corporation/</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/2014/04/getting-started-with-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/post/</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/tags/entrepreneurship/</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://viralogy.com/tags/viralogy/</loc>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
