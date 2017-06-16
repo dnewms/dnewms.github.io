@@ -18,18 +18,8 @@
   </url>
   
   <url>
-    <loc>http://viralogy.digital/2014/03/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://viralogy.digital/2017/04/limited-time-flat-fee-websites/</loc>
     <lastmod>2017-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://viralogy.digital/2014/04/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -47,55 +37,19 @@
   </url>
   
   <url>
-    <loc>http://viralogy.digital/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://viralogy.digital/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://viralogy.digital/tags/entrepreneurship/</loc>
     <lastmod>2017-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://viralogy.digital/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://viralogy.digital/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://viralogy.digital/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://viralogy.digital/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://viralogy.digital/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://viralogy.digital/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

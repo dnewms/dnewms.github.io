@@ -19,33 +19,8 @@
       
       <guid>http://viralogy.digital/2017/04/limited-time-flat-fee-websites/</guid>
       <description>Viralogy Digital is new. To incentivize some business, we&amp;rsquo;re offering some low-risk offers to help you become a part of the internet.
-$100 websites Go templates provide an extremely simple template language. It adheres to the belief that only the most basic of logic belongs in the template or view layer. One consequence of this simplicity is that go templates parse very quickly.
-A unique characteristic of go templates is they are content aware.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>http://viralogy.digital/2014/04/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viralogy.digital/2014/04/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>http://viralogy.digital/2014/03/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viralogy.digital/2014/03/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+$100 websites Get a fresh look on the web with a low-cost and local solution. Get in touch to see if your website desires qualify for this deal.
+$20 copywriting At this price per page, make sure your content reads as well as you&amp;rsquo;d like to be perceived.</description>
     </item>
     
   </channel>

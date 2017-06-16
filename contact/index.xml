@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Viralogy</title>
-    <link>http://viralogy.digital/categories/</link>
-    <description>Recent content in Categories on Viralogy</description>
+    <title>Contact on Viralogy</title>
+    <link>http://viralogy.digital/contact/</link>
+    <description>Recent content in Contact on Viralogy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Viralogy Digital is made in Michigan.</copyright>
     
-	<atom:link href="http://viralogy.digital/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://viralogy.digital/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

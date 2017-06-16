@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Viralogy Digital is made in Michigan.</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://viralogy.digital/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Development</title>
-      <link>http://viralogy.digital/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viralogy.digital/tags/development/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Entrepreneurship</title>
@@ -27,33 +18,6 @@
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://viralogy.digital/tags/entrepreneurship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>http://viralogy.digital/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viralogy.digital/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>http://viralogy.digital/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viralogy.digital/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://viralogy.digital/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://viralogy.digital/tags/hugo/</guid>
       <description></description>
     </item>
     
